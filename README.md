@@ -2,7 +2,7 @@
 
 ## 🎯 על הפרויקט
 
-<h4 dir="rtl"> **Easy Learn** היא מערכת אינטרנטית לשיעורים פרטיים וקבוצתיים, המסייעת לסטודנטים בהעמקת הידע ובניהול למידה גמיש ונוח. </h4>
+<h4 dir="rtl"> <b>Easy Learn</b> היא מערכת אינטרנטית לשיעורים פרטיים וקבוצתיים, המסייעת לסטודנטים בהעמקת הידע ובניהול למידה גמיש ונוח. </h4>
 
 📚 הפרויקט מתבצע במסגרת קורס **הנדסת תוכנה (Software Engineering - SW)**.
 

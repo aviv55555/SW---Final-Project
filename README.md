@@ -1,4 +1,4 @@
-#  Easy Learn - פלטפורמת למידה לסטודנטים📘
+<h1 dir="rtl"> #  Easy Learn - פלטפורמת למידה לסטודנטים📘</h1>
 
 ## 🎯 על הפרויקט
 

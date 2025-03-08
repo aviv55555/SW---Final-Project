@@ -1,8 +1,8 @@
-<h1 dir="rtl"> #  Easy Learn - פלטפורמת למידה לסטודנטים📘</h1>
+<h1 dir="rtl">📘  Easy Learn - פלטפורמת למידה לסטודנטים</h1>
 
 ## 🎯 על הפרויקט
 
-**Easy Learn** היא מערכת אינטרנטית לשיעורים פרטיים וקבוצתיים, המסייעת לסטודנטים בהעמקת הידע ובניהול למידה גמיש ונוח.
+<h4 dir="rtl"> **Easy Learn** היא מערכת אינטרנטית לשיעורים פרטיים וקבוצתיים, המסייעת לסטודנטים בהעמקת הידע ובניהול למידה גמיש ונוח. </h4>
 
 📚 הפרויקט מתבצע במסגרת קורס **הנדסת תוכנה (Software Engineering - SW)**.
 
